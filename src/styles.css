@@ -202,6 +202,8 @@ img.socialIcon {
   }
   /* General styles */
 
+/* General styles */
+
 section.padding {
   padding: 5rem 0;
 }
@@ -234,12 +236,23 @@ div.about-container p.large {
   font-size: 1.25rem;
 }
 
+div.about-container .skills-label {
+  font-size: 1.5rem;
+  font-weight: bold;
+  margin-top: 2rem;
+}
+
 div.about-container ul {
-  text-align: left;
-  columns: 2;
+  list-style: none;
+  padding: 0;
+  text-align: center;
   font-size: 1.25rem;
-  margin: 2rem 3rem;
-  gap: 3rem;
+  margin: 2rem 0;
+  gap: 1rem;
+}
+
+div.about-container ul li {
+  margin-bottom: 0.5rem;
 }
 
 div.about-container p {
@@ -262,8 +275,11 @@ div.about-container p {
     font-size: 1.125rem;
   }
 
+  div.about-container .skills-label {
+    font-size: 1.25rem;
+  }
+
   div.about-container ul {
-    columns: 1;
     font-size: 1.125rem;
   }
 }
@@ -280,6 +296,10 @@ div.about-container p {
 
   div.about-container p.large {
     font-size: 1rem;
+  }
+
+  div.about-container .skills-label {
+    font-size: 1.125rem;
   }
 
   div.about-container ul {
@@ -301,9 +321,11 @@ div.about-container p {
     font-size: 0.875rem;
   }
 
+  div.about-container .skills-label {
+    font-size: 1rem;
+  }
+
   div.about-container ul {
     font-size: 0.875rem;
   }
 }
-
-

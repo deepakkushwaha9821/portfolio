@@ -123,3 +123,81 @@ img.socialIcon {
   height: 30px;
   width: 30px;
 }
+
+/* Responsive design */
+
+@media (max-width: 1024px) {
+  h1 {
+    font-size: 5rem;
+  }
+
+  h2 {
+    font-size: 1.75rem;
+  }
+
+  .container {
+    grid-template-columns: 1fr;
+  }
+}
+
+@media (max-width: 768px) {
+  h1 {
+    font-size: 4rem;
+  }
+
+  h2 {
+    font-size: 1.5rem;
+  }
+
+  p {
+    font-size: 16px;
+  }
+
+  p.large {
+    font-size: 20px;
+  }
+
+  p.small {
+    font-size: 14px;
+  }
+
+  .container .box {
+    padding: 16px 12px;
+  }
+
+  img.socialIcon {
+    height: 25px;
+    width: 25px;
+  }
+}
+
+@media (max-width: 480px) {
+  h1 {
+    font-size: 3rem;
+  }
+
+  h2 {
+    font-size: 1.25rem;
+  }
+
+  p {
+    font-size: 14px;
+  }
+
+  p.large {
+    font-size: 18px;
+  }
+
+  p.small {
+    font-size: 12px;
+  }
+
+  .container .box {
+    padding: 12px 8px;
+  }
+
+  img.socialIcon {
+    height: 20px;
+    width: 20px;
+  }
+}

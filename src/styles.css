@@ -200,4 +200,110 @@ img.socialIcon {
     height: 20px;
     width: 20px;
   }
+  /* General styles */
+
+section.padding {
+  padding: 5rem 0;
 }
+
+section img.background {
+  height: 100%;
+  left: 50%;
+  object-fit: cover;
+  pointer-events: none;
+  position: absolute;
+  top: 0;
+  transform: translate(-50%, 0);
+  width: 100vmax;
+  z-index: -1;
+}
+
+div.about-container {
+  background-color: white;
+  width: 50%;
+  padding: 4rem;
+  margin: 3rem auto;
+  text-align: center;
+}
+
+div.about-container h2 {
+  font-size: 2rem;
+}
+
+div.about-container p.large {
+  font-size: 1.25rem;
+}
+
+div.about-container ul {
+  text-align: left;
+  columns: 2;
+  font-size: 1.25rem;
+  margin: 2rem 3rem;
+  gap: 3rem;
+}
+
+div.about-container p {
+  padding: 1rem 3rem 0;
+}
+
+/* Responsive design */
+
+@media (max-width: 1024px) {
+  div.about-container {
+    width: 70%;
+    padding: 3rem;
+  }
+
+  div.about-container h2 {
+    font-size: 1.75rem;
+  }
+
+  div.about-container p.large {
+    font-size: 1.125rem;
+  }
+
+  div.about-container ul {
+    columns: 1;
+    font-size: 1.125rem;
+  }
+}
+
+@media (max-width: 768px) {
+  div.about-container {
+    width: 90%;
+    padding: 2rem;
+  }
+
+  div.about-container h2 {
+    font-size: 1.5rem;
+  }
+
+  div.about-container p.large {
+    font-size: 1rem;
+  }
+
+  div.about-container ul {
+    font-size: 1rem;
+  }
+}
+
+@media (max-width: 480px) {
+  div.about-container {
+    width: 100%;
+    padding: 1.5rem;
+  }
+
+  div.about-container h2 {
+    font-size: 1.25rem;
+  }
+
+  div.about-container p.large {
+    font-size: 0.875rem;
+  }
+
+  div.about-container ul {
+    font-size: 0.875rem;
+  }
+}
+
+

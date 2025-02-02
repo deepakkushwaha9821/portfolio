@@ -16,6 +16,8 @@ const skillsList = [
   "Node.js, Express",
   "MongoDB, SQL",
   "C++ Basics",
+  Jquery,
+  Python,
 ];
 
 const detailOrQuote =

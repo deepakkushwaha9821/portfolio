@@ -43,10 +43,10 @@ const projectList = [
     url: "https://www.youtube.com/watch?v=YTEVC4C0WBA",
   },
   {
-    title: "My Resume Site",
+    title: "clone-uber",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "resume",
+      "uber",
+    url: "https://github.com/deepakkushwaha9821/clone-uber",
   },
   {
     title: "weather website",

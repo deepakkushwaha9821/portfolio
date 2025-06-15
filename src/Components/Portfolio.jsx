@@ -33,7 +33,7 @@ const projectList = [
   {
     title: "instagram caption genrator and background changer 🎉",
     
-    description: "Language used for development of the project: HTML, CSS, JavaScript,python . Details: You can add our photo it will genrator caption related to photo and you can chnaged background of photo,
+    description: "Language used for development of the project: HTML, CSS, JavaScript,python . Details: You can add our photo it will genrator caption related to photo and you can chnaged background of photo",
     url: "https://github.com/deepakkushwaha9821/instagram-captiona-genrator-dn-phtot-chnager/tree/main",
   },
   {

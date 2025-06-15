@@ -8,7 +8,6 @@ const description =
 
 const skillsList = [
   "Web design",
-  "User experience",
   "Inclusive design",
   "HTML, CSS, JavaScript",
   "React.js, Redux",
@@ -21,7 +20,7 @@ const skillsList = [
 ];
 
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my Frontend & Backend experience I continually look for new and better ways to make tech accessible by all.";
+  "I am passionate about solving problems in creative and impactful ways to drive innovation. With hands-on experience in both Frontend and Backend development, I constantly seek opportunities to build intuitive and accessible technology solutions. My strong foundation in Data Structures and Algorithms (DSA), along with solid problem-solving skills, empowers me to approach challenges analytically and efficiently. I’m always eager to learn, adapt, and contribute to meaningful projects that make a difference.";
 
 const About = () => {
   return (

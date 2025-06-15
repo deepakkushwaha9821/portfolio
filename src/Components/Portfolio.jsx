@@ -31,16 +31,16 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "Clone 0f Airbnb 🎉",
+    title: "instagram caption genrator and background changer 🎉",
     
-    description: "Language used for development of the project: HTML, CSS, JavaScript, and MERN stack. Details: You can add our house for rent, and it includes login, logout, signup features, and review features.",
-    url: "https://www.youtube.com/watch?v=Sm-Sv8GBg7E",
+    description: "Language used for development of the project: HTML, CSS, JavaScript,python . Details: You can add our photo it will genrator caption related to photo and you can chnaged background of photo,
+    url: "https://github.com/deepakkushwaha9821/instagram-captiona-genrator-dn-phtot-chnager/tree/main",
   },
   {
     title: "College virtual tour",
     description:
       "Language used for development of project Html,CSS and little bit Javascript ProjectDetails : A 180° virtual tour of a college allows you to explore the campus online throughan interactive, panoramic view that covers a 180-degree angle. You can look arounddifferent areas,.",
-    url: "https://www.youtube.com/watch?v=YTEVC4C0WBA",
+    url: "https://github.com/deepakkushwaha9821/college-virtual-tour/tree/main",
   },
   {
     title: "clone-uber",

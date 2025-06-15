@@ -7,8 +7,6 @@ const description =
   "I'm an Artificial Intelligence & Machine Learning Student studying at Universal College of Engineering. I enjoy creating Frontend and Backend in creative ways.";
 
 const skillsList = [
-  "Web design",
-  "Inclusive design",
   "HTML, CSS, JavaScript",
   "React.js, Redux",
   "Bootstrap",

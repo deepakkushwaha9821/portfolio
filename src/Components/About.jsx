@@ -18,7 +18,7 @@ const skillsList = [
 ];
 
 const detailOrQuote =
-  "I am passionate about solving problems in creative and impactful ways to drive innovation. With hands-on experience in both Frontend and Backend development, I constantly seek opportunities to build intuitive and accessible technology solutions. My strong foundation in Data Structures and Algorithms (DSA), along with solid problem-solving skills, empowers me to approach challenges analytically and efficiently. I’m always eager to learn, adapt, and contribute to meaningful projects that make a difference.";
+  "I’m an AI & ML engineering student,web developer and active machine learning learner, with knowledge of algorithms, AI-native in my workflow using ChatGPT and AI APIs, and strong full-stack MERN skills (JavaScript, React, Redux, Node.js, Express.js, MongoDB) with hands-on REST API integration experience..";
 
 const About = () => {
   return (
@@ -42,4 +42,5 @@ const About = () => {
 };
 
 export default About;
+
 

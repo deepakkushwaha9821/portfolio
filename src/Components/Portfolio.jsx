@@ -33,8 +33,7 @@ const projectList = [
   {
     title: "expense-tracker",
     
-    description: "Expense Tracker (MERN + Redux + OTP Auth) – Built an expense tracking app with Redux state management, secure email OTP login, and features to manage and analyze expenses.
-",
+    description: "Expense Tracker (MERN + Redux + OTP Auth) – Built an expense tracking app with Redux state management, secure email OTP login, and features to manage and analyze expenses.",
     url: "https://github.com/deepakkushwaha9821/expensen-tracker",
   },
   {
@@ -85,4 +84,5 @@ const Portfolio = () => {
 };
 
 export default Portfolio;
+
 

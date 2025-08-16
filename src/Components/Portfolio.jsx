@@ -31,10 +31,11 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "instagram caption genrator and background changer 🎉",
+    title: "expense-tracker",
     
-    description: "Language used for development of the project: HTML, CSS, JavaScript,python . Details: You can add our photo it will genrator caption related to photo and you can chnaged background of photo",
-    url: "https://github.com/deepakkushwaha9821/instagram-captiona-genrator-dn-phtot-chnager/tree/main",
+    description: "Expense Tracker (MERN + Redux + OTP Auth) – Built an expense tracking app with Redux state management, secure email OTP login, and features to manage and analyze expenses.
+",
+    url: "https://github.com/deepakkushwaha9821/expensen-tracker",
   },
   {
     title: "College virtual tour",
@@ -49,10 +50,10 @@ const projectList = [
     url: "https://github.com/deepakkushwaha9821/clone-uber",
   },
   {
-    title: "weather website",
+    title: "Neroml",
     description:
-      "Language used for development of project Html,CSS and React Project Details :It isbacis rect app that shown you weather of city  exracting data from api.",
-    url: "https://www.youtube.com/watch?v=LF-ZfWGLK6s",
+      "Developed a Flask-based ML web application with learning modules for regression, classification, and clustering, along with mini projects like lie detection, spam checking, image compression, and SMS spam detection using basic supervised and unsupervised algorithms.",
+    url: "https://github.com/deepakkushwaha9821/neroml",
   },
 ];
 
@@ -84,3 +85,4 @@ const Portfolio = () => {
 };
 
 export default Portfolio;
+

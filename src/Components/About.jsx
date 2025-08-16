@@ -14,7 +14,7 @@ const skillsList = [
   "MongoDB, SQL",
   "C++ Basics",
   "Jquery",
-  "Python",
+  "Python","Flask"
 ];
 
 const detailOrQuote =
@@ -42,3 +42,4 @@ const About = () => {
 };
 
 export default About;
+

@@ -52,7 +52,7 @@ const projectList = [
     title: "Neroml",
     description:
       "Developed a Flask-based ML web application with learning modules for regression, classification, and clustering, along with mini projects like lie detection, spam checking, image compression, and SMS spam detection using basic supervised and unsupervised algorithms.",
-    url: "https://github.com/deepakkushwaha9821/neroml",
+    url: "https://deedrop1140-neroml.hf.space",
   },
 ];
 
@@ -84,5 +84,6 @@ const Portfolio = () => {
 };
 
 export default Portfolio;
+
 
 

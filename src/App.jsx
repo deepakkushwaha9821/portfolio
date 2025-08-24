@@ -28,7 +28,7 @@ const siteProps = {
   name: "Kushwaha Deepak",
   title: "Frontend Developer & Backend Developer",
   email: "deekus1140@gmail.com",
-  gitHub: "https://github.com/deepakkushwaha9821",
+  gitHub: "deepakkushwaha9821",
   instagram: "deepkhushwa",
   linkedIn: "deepak-kushwaha-7875a5252",
   youTube: "@deekusk6340",

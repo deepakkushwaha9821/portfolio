@@ -30,11 +30,11 @@ const imageAltText = "desktop with books and laptop";
  * links section. Below is a sample, update to reflect links you'd like to highlight.
  */
 const projectList = [
-  {
-    title: "expense-tracker",
-    
-    description: "Expense Tracker (MERN + Redux + OTP Auth) – Built an expense tracking app with Redux state management, secure email OTP login, and features to manage and analyze expenses.",
-    url: "https://github.com/deepakkushwaha9821/expensen-tracker",
+ {
+    title: "Neroml",
+    description:
+      "Developed a Flask-based ML web application with learning modules for regression, classification, and clustering, along with mini projects like lie detection, spam checking, image compression, and SMS spam detection using basic supervised and unsupervised algorithms.",
+    url: "https://deedrop1140-neroml.hf.space",
   },
   {
     title: "College virtual tour",
@@ -48,11 +48,12 @@ const projectList = [
       "uber",
     url: "https://github.com/deepakkushwaha9821/clone-uber",
   },
-  {
-    title: "Neroml",
-    description:
-      "Developed a Flask-based ML web application with learning modules for regression, classification, and clustering, along with mini projects like lie detection, spam checking, image compression, and SMS spam detection using basic supervised and unsupervised algorithms.",
-    url: "https://deedrop1140-neroml.hf.space",
+ 
+    {
+    title: "expense-tracker",
+    
+    description: "Expense Tracker (MERN + Redux + OTP Auth) – Built an expense tracking app with Redux state management, secure email OTP login, and features to manage and analyze expenses.",
+    url: "https://github.com/deepakkushwaha9821/expensen-tracker",
   },
 ];
 
@@ -84,6 +85,7 @@ const Portfolio = () => {
 };
 
 export default Portfolio;
+
 
 
 

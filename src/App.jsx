@@ -30,7 +30,7 @@ const siteProps = {
   email: "deekus1140@gmail.com",
   gitHub: "https://github.com/deepakkushwaha9821",
   instagram: "deepkhushwa",
-  linkedIn: "0deepak-kushwaha-7875a5252",
+  linkedIn: "deepak-kushwaha-7875a5252",
   youTube: "@deekusk6340",
 };
 

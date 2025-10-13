@@ -40,7 +40,7 @@ const projectList = [
     title: "Caption Generator (Flask Web App) ",
     description:
       "Built with Flask for backend and REST API handling. Enabled real-time image upload and caption generation through a clean UI.",
-    url: "https:https://deedrop1140-captiongenrater.hf.space/",
+    url: "https://deedrop1140-captiongenrater.hf.space/",
   },
   {
     title: "clone-uber",
@@ -50,7 +50,7 @@ const projectList = [
   },
  
     {
-    title: "expense-tracker",
+    title: "Django Notes (CRUD)",
     
     description: "CRUD Functionality: Create, Read, Update, and Delete notes stored in a database using Django ORM and UI: Simple list, detail, edit, and delete views for notes , Database: Uses SQLite by default (easily switchable to PostgreSQL/MySQL) .",
     url: "https://github.com/deepakkushwaha9821/dajango-note-with-database",
@@ -85,6 +85,7 @@ const Portfolio = () => {
 };
 
 export default Portfolio;
+
 
 
 

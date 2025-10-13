@@ -12,8 +12,8 @@ const skillsList = [
   "Bootstrap",
   "Node.js, Express",
   "MongoDB, SQL",
-  "C++ Basics",
-  "Jquery",
+  "C++ ","machine learning"
+  "NLP","Django"
   "Python","Flask"
 ];
 
@@ -42,5 +42,6 @@ const About = () => {
 };
 
 export default About;
+
 
 

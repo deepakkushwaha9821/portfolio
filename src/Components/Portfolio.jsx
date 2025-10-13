@@ -37,10 +37,10 @@ const projectList = [
     url: "https://deedrop1140-neroml.hf.space",
   },
   {
-    title: "College virtual tour",
+    title: "Caption Generator (Flask Web App) ",
     description:
-      "Language used for development of project Html,CSS and little bit Javascript ProjectDetails : A 180° virtual tour of a college allows you to explore the campus online throughan interactive, panoramic view that covers a 180-degree angle. You can look arounddifferent areas,.",
-    url: "https://github.com/deepakkushwaha9821/college-virtual-tour/tree/main",
+      "Built with Flask for backend and REST API handling. Enabled real-time image upload and caption generation through a clean UI.",
+    url: "https:https://deedrop1140-captiongenrater.hf.space/",
   },
   {
     title: "clone-uber",
@@ -52,8 +52,8 @@ const projectList = [
     {
     title: "expense-tracker",
     
-    description: "Expense Tracker (MERN + Redux + OTP Auth) – Built an expense tracking app with Redux state management, secure email OTP login, and features to manage and analyze expenses.",
-    url: "https://github.com/deepakkushwaha9821/expensen-tracker",
+    description: "CRUD Functionality: Create, Read, Update, and Delete notes stored in a database using Django ORM and UI: Simple list, detail, edit, and delete views for notes , Database: Uses SQLite by default (easily switchable to PostgreSQL/MySQL) .",
+    url: "https://github.com/deepakkushwaha9821/dajango-note-with-database",
   },
 ];
 
@@ -85,6 +85,7 @@ const Portfolio = () => {
 };
 
 export default Portfolio;
+
 
 
 
